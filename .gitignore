@@ -1,0 +1,7 @@
+
+#ignore all png files
+*.png
+#ignore file
+receipts/plots
+# ignore all csv files, ingore position in industry tree
+*.csv
